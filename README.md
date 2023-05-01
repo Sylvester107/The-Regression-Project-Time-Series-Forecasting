@@ -11,5 +11,3 @@ The training data includes dates, store, and product information, whether that i
 
 
 
-# Author
-Jacob Oriang Jaroya
